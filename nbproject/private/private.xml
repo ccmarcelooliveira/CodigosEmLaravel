@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/resources/views/admin/negocio/ConsultarNegocio.blade.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/resources/views/admin/negocio/CadastrarNegocio.blade.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/app/Models/CaminhoFisico.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/app/Classes/NegocioModel.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/resources/views/consultar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/app/Http/Controllers/Admin/Negocio/NegocioController.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/app/Http/Controllers/ControleSistema/ControleTelaController.php</file>
+            <file>file:/C:/xampp/htdocs/PraxosAuto/app/Http/Controllers/ControleSistema/ControleMensagem.php</file>
+        </group>
+    </open-files>
+</project-private>

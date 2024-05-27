@@ -1,0 +1,153 @@
+anexo OK 
+apartamento - ok
+aprovacao - ok
+area comum  - ok
+aviso mudancas - ok
+bairro - ok
+balanco_de_contas - retirar
+bens -ok 
+candidatos - ok
+cartaos  - ok
+categoria_apartamento - ok
+categoria_documento - ok
+categoria_fornecimento - retirar
+categoria_objetos - retirar
+categoria_pessoas - retirar
+categoria_reforma_apartamento - ok
+categoria_servicos - retirar
+cautelas - ok
+cidades - retirar
+clasificados - ok
+condominio - ok
+consumo - ok
+contas_pagars - retirar
+contas_recebers - retirar
+contratos - ok
+controle_acessos - ok
+controle_contas - ok
+controle_telas - retirar
+curso_combate_incendios - retirar
+dependentes - ok
+depreciacao - ok
+despacho - ok
+documentos - ok
+empresas - retirar
+entrada_saida_veiculos - retirar
+envio_email - ok
+erros - ok
+escala_servicos - ok
+esquema_dt_pagto - ok
+estados - retirar
+estoques - ok
+evacuação - retirar
+eventos - ok
+extintor - retirar
+fabricante_autos - ok
+fale_conoscos - retirar
+faqs - ok
+fornecedores - ok
+funcaos - ok
+funcao_condominio - ok
+funcionalidades - ok
+funcionarios - ok
+grau_escolaridades - retirar
+grupo_ramal - ok
+historico_operacao - ok
+historico_info_condominios - ok
+infra_estrutura - ok
+limite_dashboard - ok
+lista_equipamentos - ok
+mangueiras_incendio - retirar
+manutencoes_programadas - retirar
+mensagens - retirar
+mensagens_padraos - retirar 
+menu_condominios - ok
+menu_condominios_padrao - retirar
+menu_link - ok
+modelo_carros - retirar
+morador - ok
+municipio - retirar
+nacionalidades - ok
+naturalidade - ok
+noticias - ok
+objetod_clicados - retirar
+obras - retirar
+ocorrencias - ok
+orcamentos - retirar
+pagamentos - ok
+pedido_materials - retirar
+pedido_servicos - ok
+perfil - ok
+pets - ok
+planos - ok
+plano_contas - ok
+plano_manutencao - ok 
+pontos - ok
+porta_corta_fogos - retirar
+previsao_orcamentaria - ok
+processos - retirar
+produtos - ok
+proprietarios - retirar
+qrcode - ok
+ramals - ok
+recebimentos - retirar
+redes sociais - retirar
+rede_gas - retirar
+rede_incendios - retirar
+redes_interfones - retirar
+rede_sociais - retirar
+reforma_apartamentos - ok
+registro_envio_emails - ok
+relacao_tabelas - ok
+reservas - ok
+reserva_pagamentos - ok
+resumo_previsao_orcam - ok
+saldo_atual_contas - retirar
+servicos - retirar
+situacao_contratos - retitar
+solicitacos - ok
+taxas - ok
+templates - retirar
+tipos_pets - ok
+tipos_reforma_apartamentos - ok
+tipo_veiculos - retirar
+
+tomadas_incendio - retirar
+turnos - ok
+unidade_federacaos - retirar
+vacinas - retirar
+vacinas_pets - retirar
+vaga_garagem - ok
+variavel - ok
+veiculos - ok
+visitantes - OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
